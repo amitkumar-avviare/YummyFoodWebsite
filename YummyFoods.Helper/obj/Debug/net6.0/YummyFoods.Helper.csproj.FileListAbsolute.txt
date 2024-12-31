@@ -1,0 +1,60 @@
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoo.E876FBC7.Up2Date
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\refint\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Helper\obj\Debug\net6.0\ref\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoo.E876FBC7.Up2Date
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\refint\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\ref\YummyFoods.Helper.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.deps.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.AssemblyReference.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfoInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfo.cs
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.CoreCompileInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoo.E876FBC7.Up2Date
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\refint\YummyFoods.Helper.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\ref\YummyFoods.Helper.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.deps.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.AssemblyReference.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfoInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.AssemblyInfo.cs
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.csproj.CoreCompileInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoo.E876FBC7.Up2Date
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\refint\YummyFoods.Helper.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Helper\obj\Debug\net6.0\ref\YummyFoods.Helper.dll

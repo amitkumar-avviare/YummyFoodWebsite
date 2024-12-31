@@ -1,0 +1,56 @@
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\refint\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\ref\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.runtimeconfig.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.genruntimeconfig.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.runtimeconfig.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\refint\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.genruntimeconfig.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Models\obj\Debug\net6.0\ref\YummyFoods.Models.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.deps.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.runtimeconfig.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.AssemblyReference.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfoInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfo.cs
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.CoreCompileInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\refint\YummyFoods.Models.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.genruntimeconfig.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\ref\YummyFoods.Models.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.deps.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.runtimeconfig.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.AssemblyReference.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfoInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.AssemblyInfo.cs
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.csproj.CoreCompileInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\refint\YummyFoods.Models.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\YummyFoods.Models.genruntimeconfig.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Models\obj\Debug\net6.0\ref\YummyFoods.Models.dll

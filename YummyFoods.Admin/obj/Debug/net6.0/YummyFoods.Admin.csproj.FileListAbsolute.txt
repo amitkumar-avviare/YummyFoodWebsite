@@ -1,0 +1,287 @@
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\appsettings.Development.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\appsettings.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.staticwebassets.runtime.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.exe
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.runtimeconfig.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.YummyFoods.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.build.YummyFoods.Admin.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.YummyFoods.Admin.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.YummyFoods.Admin.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\bundle\YummyFoods.Admin.styles.css
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\projectbundle\YummyFoods.Admin.bundle.scp.css
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoo.BB1FC154.Up2Date
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\refint\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.genruntimeconfig.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.Admin\obj\Debug\net6.0\ref\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\appsettings.Development.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\appsettings.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.staticwebassets.runtime.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.exe
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.runtimeconfig.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.MvcApplicationPartsAssemblyInfo.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.build.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.development.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.YummyFoods.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.build.YummyFoods.Admin.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.YummyFoods.Admin.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.YummyFoods.Admin.props
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\bundle\YummyFoods.Admin.styles.css
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\projectbundle\YummyFoods.Admin.bundle.scp.css
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoo.BB1FC154.Up2Date
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\refint\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.genruntimeconfig.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\ref\YummyFoods.Admin.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\appsettings.Development.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\appsettings.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.staticwebassets.runtime.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.exe
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.deps.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.runtimeconfig.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.AssemblyReference.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfoInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfo.cs
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.CoreCompileInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.MvcApplicationPartsAssemblyInfo.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cs
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.build.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.development.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.YummyFoods.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.build.YummyFoods.Admin.props
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.YummyFoods.Admin.props
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.YummyFoods.Admin.props
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\bundle\YummyFoods.Admin.styles.css
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\projectbundle\YummyFoods.Admin.bundle.scp.css
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoo.BB1FC154.Up2Date
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\refint\YummyFoods.Admin.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.genruntimeconfig.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\ref\YummyFoods.Admin.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\appsettings.Development.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\appsettings.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.staticwebassets.runtime.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.exe
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.deps.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.runtimeconfig.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Admin.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.AssemblyReference.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfoInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.AssemblyInfo.cs
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.csproj.CoreCompileInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.MvcApplicationPartsAssemblyInfo.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.RazorAssemblyInfo.cs
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.build.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.development.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.YummyFoods.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.build.YummyFoods.Admin.props
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.YummyFoods.Admin.props
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.YummyFoods.Admin.props
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\bundle\YummyFoods.Admin.styles.css
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\scopedcss\projectbundle\YummyFoods.Admin.bundle.scp.css
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoo.BB1FC154.Up2Date
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\refint\YummyFoods.Admin.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\YummyFoods.Admin.genruntimeconfig.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.Admin\obj\Debug\net6.0\ref\YummyFoods.Admin.dll

@@ -1,0 +1,76 @@
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoo.8B0888E2.Up2Date
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\refint\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\obj\Debug\net6.0\ref\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.AssemblyReference.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoo.8B0888E2.Up2Date
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\refint\YummyFoods.BusinessLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\ref\YummyFoods.BusinessLayer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.deps.json
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.AssemblyReference.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfoInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfo.cs
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoo.8B0888E2.Up2Date
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\refint\YummyFoods.BusinessLayer.dll
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+D:\ClgProject\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\ref\YummyFoods.BusinessLayer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.deps.json
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.DatabaseLayer.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Helper.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\bin\Debug\net6.0\YummyFoods.Models.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.AssemblyReference.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfoInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.AssemblyInfo.cs
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoo.8B0888E2.Up2Date
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\refint\YummyFoods.BusinessLayer.dll
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\YummyFoods.BusinessLayer.pdb
+D:\ClgProject Major Project\YummyFood\YummyFood\YummyFoods.BusinessLayer\obj\Debug\net6.0\ref\YummyFoods.BusinessLayer.dll

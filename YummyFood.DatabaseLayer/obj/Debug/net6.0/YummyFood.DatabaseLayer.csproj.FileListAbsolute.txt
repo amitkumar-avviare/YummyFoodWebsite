@@ -1,0 +1,11 @@
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\bin\Debug\net6.0\YummyFood.DatabaseLayer.deps.json
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\bin\Debug\net6.0\YummyFood.DatabaseLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\bin\Debug\net6.0\YummyFood.DatabaseLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\YummyFood.DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\YummyFood.DatabaseLayer.AssemblyInfoInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\YummyFood.DatabaseLayer.AssemblyInfo.cs
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\YummyFood.DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\YummyFood.DatabaseLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\refint\YummyFood.DatabaseLayer.dll
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\YummyFood.DatabaseLayer.pdb
+C:\Sugam Workspace\.NetApplications\MVC Apps\YummyFood.DatabaseLayer\obj\Debug\net6.0\ref\YummyFood.DatabaseLayer.dll
